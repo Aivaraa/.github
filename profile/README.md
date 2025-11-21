@@ -31,15 +31,15 @@ who believe in solving real problems through code, creativity, and engineering d
 
 Aivaara is currently built and led by:
 
-### **Founder, Lead Engineer**
-**Abhishek Maurya**  
+### **Abhishek Maurya**
+**Founder, Lead Engineer**  
 - Full-stack developer  
 - AI/ML enthusiast  
 - Vision-driven builder  
 - Focused on excellence and innovation  
 
-### **Co-Founder, Co-Lead Engineer**
-**Priyanshi Limbasiya**  
+### **Priyanshi Limbasiya**
+**Co-Founder, Co-Lead Engineer**  
 - Full-stack developer  
 - AI/ML enthusiast  
 - Researcher  
