@@ -171,7 +171,7 @@ Every star motivates us to build bigger and better.
 
 ---
 
-# 👥 **Team (Optional Section)**
+# 👥 **Team**
 
 Aivaara is currently built and led by:
 
