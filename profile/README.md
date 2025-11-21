@@ -27,6 +27,26 @@ who believe in solving real problems through code, creativity, and engineering d
 
 ---
 
+# 👥 **Team**
+
+Aivaara is currently built and led by:
+
+### **Founder, Lead Engineer**
+**Abhishek Maurya**  
+- Full-stack developer  
+- AI/ML enthusiast  
+- Vision-driven builder  
+- Focused on excellence and innovation  
+
+### **Co-Founder, Co-Lead Engineer**
+**Priyanshi Limbasiya**  
+- Full-stack developer  
+- AI/ML enthusiast  
+- Researcher  
+- Focused on creativity and innovation
+
+---
+
 # 🏗️ **What We Build**
 
 ### **1️⃣ Full-Stack Applications**
@@ -168,26 +188,6 @@ If you find our work valuable:
 - ❤️ Follow for updates  
 
 Every star motivates us to build bigger and better.
-
----
-
-# 👥 **Team**
-
-Aivaara is currently built and led by:
-
-### **Founder, Lead Engineer**
-**Abhishek Maurya**  
-- Full-stack developer  
-- AI/ML enthusiast  
-- Vision-driven builder  
-- Focused on excellence and innovation  
-
-### **Co-Founder, Co-Lead Engineer**
-**Priyanshi Limbasiya**  
-- Full-stack developer  
-- AI/ML enthusiast  
-- Researcher  
-- Focused on creativity and innovation
 
 ---
 
