@@ -102,7 +102,7 @@ This is where innovation begins.
 |--------|-------------|--------|
 | **aivaraa-core** | Base utilities, configurations, dev workflow templates, and shared logic for all org projects. | 🟡 In Progress |
 | **aivaraa-ui** | Beautiful, animated React/Next.js UI components built with Tailwind + Framer Motion. | 🔵 Planned |
-| **aiaaraa-ai** | LLM tools, prompt systems, AI automation scripts, agents & assistants. | 🔵 Planned |
+| **aivaraa-ai** | LLM tools, prompt systems, AI automation scripts, agents & assistants. | 🔵 Planned |
 | **aivaraa-devtools** | Developer productivity tools: CLI, boilerplates, templates, scripts. | 🔵 Planned |
 | **aivaraa-labs** | Research playground for experimental technologies & prototypes. | 🟣 Ongoing |
 
@@ -202,5 +202,5 @@ It’s a movement to rethink how intelligent software is created.
 
 ---
 
-# 🚀 **Aivaara — Engineering the Intelligent Future**
+# 🚀 **Aivaraa — Engineering the Intelligent Future**
 Welcome to the next era of creation.
