@@ -1,6 +1,6 @@
-# 🌌 **Welcome To Aivaara Organization**  
+# 🌌 **Welcome To Aivaraa Organization**  
 
-Aivaara is a modern engineering organization focused on building **intelligent, scalable, and beautifully crafted technologies**.  
+Aivaraa is a modern engineering organization focused on building **intelligent, scalable, and beautifully crafted technologies**.  
 We combine the power of **AI**, **full-stack development**, and **automation** to create tools, applications, and digital experiences that shape the future.
 
 Our goal is simple:
@@ -9,13 +9,13 @@ Our goal is simple:
 
 ---
 
-# 🧬 **About Aivaara**
+# 🧬 **About Aivaraa**
 
-**Aivaara = AI + Vara (Sanskrit: “excellent / supreme / best”)**  
+**Aivaraa = AI + Vara (Sanskrit: “excellent / supreme / best”)**  
 This represents our philosophy:  
 **to build excellent, future-first technologies powered by intelligent engineering.**
 
-Aivaara is a home for:
+Aivaraa is a home for:
 
 - passionate developers  
 - creators  
@@ -29,7 +29,7 @@ who believe in solving real problems through code, creativity, and engineering d
 
 # 👥 **Team**
 
-Aivaara is currently built and led by:
+Aivaraa is currently built and led by:
 
 ### **Abhishek Maurya**
 **Founder, Lead Engineer**  
@@ -84,7 +84,7 @@ Reusable utilities and productivity boosters:
 ---
 
 ### **4️⃣ Research & Experimental Projects**
-All early-stage experiments live in **aivaara-labs**:
+All early-stage experiments live in **aivaraa-labs**:
 
 - AI research prototypes  
 - new architectures  
@@ -100,11 +100,11 @@ This is where innovation begins.
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| **aivaara-core** | Base utilities, configurations, dev workflow templates, and shared logic for all org projects. | 🟡 In Progress |
-| **aivaara-ui** | Beautiful, animated React/Next.js UI components built with Tailwind + Framer Motion. | 🔵 Planned |
-| **aivaara-ai** | LLM tools, prompt systems, AI automation scripts, agents & assistants. | 🔵 Planned |
-| **aivaara-devtools** | Developer productivity tools: CLI, boilerplates, templates, scripts. | 🔵 Planned |
-| **aivaara-labs** | Research playground for experimental technologies & prototypes. | 🟣 Ongoing |
+| **aivaraa-core** | Base utilities, configurations, dev workflow templates, and shared logic for all org projects. | 🟡 In Progress |
+| **aivaraa-ui** | Beautiful, animated React/Next.js UI components built with Tailwind + Framer Motion. | 🔵 Planned |
+| **aiaaraa-ai** | LLM tools, prompt systems, AI automation scripts, agents & assistants. | 🔵 Planned |
+| **aivaraa-devtools** | Developer productivity tools: CLI, boilerplates, templates, scripts. | 🔵 Planned |
+| **aivaraa-labs** | Research playground for experimental technologies & prototypes. | 🟣 Ongoing |
 
 ---
 
@@ -183,7 +183,7 @@ We believe in community-driven innovation.
 If you find our work valuable:
 
 - ⭐ Star our repositories  
-- 🔄 Share Aivaara  
+- 🔄 Share Aivaraa 
 - 🛠 Contribute to open-source  
 - ❤️ Follow for updates  
 
@@ -197,7 +197,7 @@ Every star motivates us to build bigger and better.
 Create tools that empower.  
 Design experiences that inspire.**
 
-Aivaara is not just an organization.  
+Aivaraa is not just an organization.  
 It’s a movement to rethink how intelligent software is created.
 
 ---
